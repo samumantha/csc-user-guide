@@ -185,6 +185,7 @@ extra_css:
 
 extra_javascript:
   - 'assets/javascripts/extra.js'
+  - 'assets/javascripts/test.js'
 
 markdown_extensions:
   - toc:
