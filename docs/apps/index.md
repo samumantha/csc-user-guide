@@ -102,6 +102,7 @@
 
 ## Data Analytics and Machine Learning
 
+* [Csc Notebooks documentation](notebooks/notebooks.md) Dedicated and disposable environments run in the cloud and can be accessed through web browser.
 * [Python Data](python-data.md) Collection of Python libraries for data analytics and machine learning
 * [MXNet](mxnet.md) Deep learning library for Python
 * [PyTorch](pytorch.md) Machine learning framework for Python
