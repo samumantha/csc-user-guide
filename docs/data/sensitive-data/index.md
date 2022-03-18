@@ -1,4 +1,19 @@
 
+
+This is the user guide for CSC Sensitive Data Services and it is part of Docs CSC. In order to navigate across the CSC user guide, click on the topics on the left hand side of the navigation bar or use the search functionality.
+
+We are currently updating the documentation and video tutorials. 
+
+!!! Note
+    Do you have any questions? Don't hesitate to contact us at servicedesk@csc.fi (subject: Sensitive Data). Our team is here to help.
+
+
+
+
+
+
+
+
 ## [Introduction](./intro.md)
 
    
@@ -21,8 +36,6 @@
  * **Login**
    
  * **User Interface Pages**
- 
- * **Encryption with CSC encryption key - User Interface**
    
  * **Sensitive data encryption and upload (less than 1 GB)**
  
@@ -33,7 +46,6 @@
  * **Data Sharing**
  
  * **Troubleshooting**
- 
 
   
 
